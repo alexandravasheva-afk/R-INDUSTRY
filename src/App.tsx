@@ -29,16 +29,16 @@ import {
 
 // High-fidelity industrial images
 const IMAGES = {
-  hero: '/src/assets/images/hero_asphalt_paving_1793371103389.jpg',
-  landscaping: '/src/assets/images/project_commercial_landscaping_1793371118905.jpg',
-  dumpTruck: '/src/assets/images/machinery_dump_truck_1793371138604.jpg',
+  hero: '/images/hero_asphalt_paving_1793371103389.jpg',
+  landscaping: '/images/project_commercial_landscaping_1793371118905.jpg',
+  dumpTruck: '/images/machinery_dump_truck_1793371138604.jpg',
   // Model-specific fleet machinery
   paverVogele1900: '/assets/aistudio/10_d18422e4.jpg',
   rollerDm13: '/assets/aistudio/7_f8be7bc2.png',
-  rollerHammHd90: '/src/assets/images/hamm_hd90.jpg',
+  rollerHammHd90: '/images/hamm_hd90.jpg',
   rollerHammHd75: '/assets/aistudio/9_f597a277.jpg',
   rollerDm03: '/assets/aistudio/3_a772184e.jpg',
-  backhoeJcb3cx: '/src/assets/images/machinery_backhoe_loader_1793433808258.jpg',
+  backhoeJcb3cx: '/images/machinery_backhoe_loader_1793433808258.jpg',
   excavatorSany155: '/assets/aistudio/4_3bf49799.jpg',
   excavatorLovol225: '/assets/aistudio/2_5f533f7d.jpg',
   truckActrosTral: '/assets/aistudio/1_93341aa1.jpg',
